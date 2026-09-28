@@ -1,0 +1,9 @@
+*.before-*
+__pycache__/
+*.pyc
+.config/noctalia/location.toml
+.config/noctalia/screenshots.toml
+.local/share/noctalia-temas/themes/
+*.bak
+*.swp
+.DS_Store

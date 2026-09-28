@@ -1,0 +1,4 @@
+# Keep application, Hyprland, and Niri colors in sync with Noctalia's palette.
+[theme.templates]
+enable_builtin_templates = true
+builtin_ids = ["gtk3", "gtk4", "foot", "hyprland", "niri", "qt"]
